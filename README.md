@@ -15,3 +15,5 @@ It aims to teach basic web development skills while maintaining a clean and simp
 - **CSS:** Used for styling and visual design.
 
 ## 🚀 [Demo](https://google-clone-ui-design.vercel.app/)
+
+## 📺 [Watch the video on YouTube](https://www.youtube.com/watch?v=v8Ig5aHoENA&t=34s&ab_channel=FerdiULA%C5%9E)
